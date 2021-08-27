@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/suresh k/AndroidStudioProjects/hackathonDelta/app/src/main/res/layout/activity_frag1.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/suresh k/AndroidStudioProjects/hackathonDelta/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/suresh k/AndroidStudioProjects/hackathonDelta/app/src/main/res/layout/fragment_all_photos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/suresh k/AndroidStudioProjects/hackathonDelta/app/src/main/res/layout/fragment_photo_display.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/suresh k/AndroidStudioProjects/hackathonDelta/app/src/main/res/layout/photodetails.xml" value="0.25416666666666665" />
       </map>
     </option>
